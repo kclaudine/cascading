@@ -10,3 +10,7 @@
   .dogs p a {
     font-style: italic;
   }
+  img {
+      float: right;
+      border-radius: 40%;
+  }
